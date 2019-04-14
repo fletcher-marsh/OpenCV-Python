@@ -1,6 +1,5 @@
 import matplotlib
 import cv2
-import sys
 import numpy as np
 
 img = cv2.imread('coins.jpg')
